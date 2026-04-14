@@ -1,0 +1,9 @@
+.venv/
+.claude/
+__pycache__/
+*.pyc
+*.mp3
+*.m4a
+*.webm
+*.part
+.DS_Store
