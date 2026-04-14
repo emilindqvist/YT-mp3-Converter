@@ -54,7 +54,8 @@ when the download finishes.
 
 1. `-o / --output-dir <path>` — CLI flag, wins over everything
 2. `$YTMP3_DIR` — environment variable
-3. `~/Downloads` — default
+3. `/mnt/c/Users/Emil/Downloads` — auto-used on WSL when it exists
+4. `~/Downloads` — default everywhere else
 
 Examples:
 
