@@ -1,8 +1,7 @@
 # YT-mp3-Converter
 
 Small Python CLI that downloads a YouTube video or Short and converts it to a
-128 kbps MP3 — handy for building a Discord soundboard library, grabbing a
-lecture as audio, or any case where you just want the sound.
+128 kbps MP3.
 
 ## Features
 
