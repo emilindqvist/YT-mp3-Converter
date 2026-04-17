@@ -1,9 +1,9 @@
-.venv/
-.claude/
-__pycache__/
-*.pyc
+/target
+/.claude
+/.venv
 *.mp3
 *.m4a
+*.opus
 *.webm
 *.part
 .DS_Store
