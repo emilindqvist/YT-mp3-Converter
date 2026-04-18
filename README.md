@@ -1,6 +1,6 @@
 # ytmp3
 
-Download audio from YouTube, Instagram, TikTok, X/Twitter, and [~1800 other sites](https://github.com/yt-dlp/yt-dlp/blob/master/supportedsites.md) as MP3, M4A, or Opus. Single binary, no venv, no `python3` prefix.
+Download audio from YouTube, Instagram, TikTok, X/Twitter, and [~1800 other sites](https://github.com/yt-dlp/yt-dlp/blob/master/supportedsites.md) as MP3, M4A, or Opus.
 
 Thin Rust wrapper around [yt-dlp](https://github.com/yt-dlp/yt-dlp) and [ffmpeg](https://ffmpeg.org/).
 
