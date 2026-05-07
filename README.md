@@ -8,6 +8,14 @@ Thin Rust wrapper around [yt-dlp](https://github.com/yt-dlp/yt-dlp) and [ffmpeg]
 
 ### From crates.io
 
+Requires the Rust toolchain (`cargo`). Install via [rustup](https://rustup.rs/) if you don't have it:
+
+```bash
+curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
+```
+
+Then:
+
 ```bash
 cargo install ytmp3
 ```
